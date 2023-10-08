@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404318823179",
+    "firebase_url": "https://carlift-802b0-default-rtdb.firebaseio.com",
+    "project_id": "carlift-802b0",
+    "storage_bucket": "carlift-802b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404318823179:android:e573431df5279de281b80e",
+        "android_client_info": {
+          "package_name": "com.carlift.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404318823179-v2elgdtsubqp44k9kkvucucrhckffi6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDEvMWanN5OeH_q76pAJDMKZbTkz-jZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404318823179-v2elgdtsubqp44k9kkvucucrhckffi6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
